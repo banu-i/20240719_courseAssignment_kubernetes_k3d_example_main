@@ -191,3 +191,8 @@ Get cluster info:
     function dex(){
       docker exec -it $1 bash
     }
+
+## kubectl Quick Reference | Cheat Sheet LINKS:
+
+https://kubernetes.io/docs/reference/kubectl/quick-reference/
+https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/
